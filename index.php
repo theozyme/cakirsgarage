@@ -24,6 +24,7 @@ content="text/html; charset=UTF-8" />
             <li><a href="listele.php">Kayıtları Listele</a></li>
             <li><a href="silmelistesi.php">Kayıt Sil</a></li>
             <li><a href="guncellelistesi.php">Kayıt Güncelle</a></li>
+            <li><a href="https://github.com/theozyme">github</a></li>
           
           </ul>
         </div>
